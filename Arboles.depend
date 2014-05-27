@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1401129302 source:/home/turupawn/Projects/Codeblocks/Clases/Arboles/main.cpp
+	<iostream>
+	"Nodo.h"
+
+1401125512 source:/home/turupawn/Projects/Codeblocks/Clases/Arboles/Nodo.cpp
+	"Nodo.h"
+
+1401125475 /home/turupawn/Projects/Codeblocks/Clases/Arboles/Nodo.h
+
+1401212086 source:/home/turupawn/Projects/Codeblocks/Clases/Arboles/Arbol.cpp
+	"Arbol.h"
+
+1401212112 /home/turupawn/Projects/Codeblocks/Clases/Arboles/Arbol.h
+	<iostream>
+	"Nodo.h"
+
